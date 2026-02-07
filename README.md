@@ -1,2 +1,2 @@
 # DAERFQ
-Packed python program for DAEMODS OCT segmentation software written in exe format. 
+Packed demo program for DAERFQ OCT Segmentation algorithm. 
